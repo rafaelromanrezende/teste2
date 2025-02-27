@@ -6,7 +6,7 @@ import subprocess
 import tkinter as tk
 from PIL import Image , ImageTk
 from time import sleep
-
+#FIZ UMA ALTERAÇÃO
 R = 0
 #Carregar modelo treinado no arquivo treinamentos.py
 modelo = joblib.load('modelo_gestos.pkl')
